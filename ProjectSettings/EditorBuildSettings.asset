@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Desert.unity
+    guid: 9bc1fd42befcc8f4eb0fe3a1e299f4d4
+  - enabled: 0
+    path: Assets/Scenes/Campfire.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Water Splash.unity
+    guid: 0a5228d29d8df194e802524ab7c904ef
   m_configObjects: {}
